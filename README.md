@@ -1,3 +1,3 @@
 # Demo 2
 
-Trials 
+Making a local folder a repo in github
